@@ -34,7 +34,7 @@ Stackoverflow's 2019 Annual Developer Survey schema.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@shevchuk.dimitri/top-most-common-and-well-paid-programming-languages-of-2019-in-usa-64abf09bdbac).
+The main findings of the code can be found at the post available [here](https://medium.com/@indranarayana.r/top-most-common-and-well-paid-programming-languages-of-2019-in-the-usa-cb8794f447c8).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
